@@ -46,6 +46,6 @@ accuracy
 
 ## Output:
 ## HEAD:
-![GITHUB LOGO](head
+![GITHUB LOGO](s1.png)
 ## Result:
 Thus the program to implement the SVM For Spam Mail Detection is written and verified using python programming.

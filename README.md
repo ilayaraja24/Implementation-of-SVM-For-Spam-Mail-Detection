@@ -44,16 +44,7 @@ accuracy
 ```
 
 ## Output:
-## HEAD:
-![GITHUB LOGO](head ex8.png)
-## INFO:
-![GITHUB LOGO](info ex8.png)
-## ISNULL:
-![GITHUB LOGO](mlex8(5).png)
-## SVC PREDICT:
-![GITHUB LOGO](mlex8(3).png)
-## ACCURACY:
-![GITHUB LOGO](mlex8(4).png)
+
 
 
 
